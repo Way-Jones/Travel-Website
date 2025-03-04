@@ -1,0 +1,33 @@
+nav{
+    width: auto;
+    height: 60px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    place-items: center;
+    align-items: center;
+   
+}
+container{
+    width: 900px;
+    height: 58px;
+    top: 8px;
+    left: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 1px 1px;
+    width: 300px;
+}
+li a {
+    color: black;
+    padding: 10px 20px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+}
